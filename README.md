@@ -101,5 +101,5 @@ hand over.
 ## Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/mohammad-syed-sameer-s
-- **Portfolio:** https://porfolio-sigma-woad.vercel.app/
+- **Portfolio:** https://portfolio-azure-six-79.vercel.app/
 - **GitHub:** https://github.com/S-MOHAMMAD-SYED-SAMEER
